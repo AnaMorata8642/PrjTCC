@@ -1,0 +1,6 @@
+background: rgb(151,186,206);
+background: linear-gradient(360deg, rgba(151,186,206,1) 6%, rgba(118,170,219,1) 47%, rgba(64,122,198,1) 100%);
+
+noite
+ background: rgb(2,9,32);
+background: linear-gradient(180deg, rgba(2,9,32,1) 0%, rgba(19,19,78,1) 34%, rgba(70,3,24,1) 90%, rgba(126,4,29,1) 100%);
